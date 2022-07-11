@@ -1,0 +1,21 @@
+## 100 supported collections for Rarity Ranking
+
+Hello Mochi's friends,
+
+It's ratatouille talking to you. I'm happy to bring you updates and fun stuff from Mochi bot weekly from now on. Let takes a glance at major releases last week:
+
+**Rarity Ranking**
+A bunch of top Ethereum & Fantom NFT collections rarity ranking have been updated in Mochi Bot. You now can query them directly from Discord.
+Command: `$nft <collection_symbol> <token_id>`
+
+![](https://i.imgur.com/AKmPuAr.jpg)
+
+
+**`$nft list` new UI**
+We have updated NFT supported collection list with more attractive UI. Either its official logo or the NFT no.1, this list view looks neat, huh?
+Command: `$nft list`
+
+![](https://i.imgur.com/NyLYCnS.png)
+
+**Optimism NFT collections are being processed**
+We are adding top OP collections from [Quixotic marketplace](https://quixotic.io/stats). Stay tuned until we make it!
